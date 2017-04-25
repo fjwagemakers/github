@@ -1,0 +1,86 @@
+SQL>  Select purge_config_id, purge_code purge_type, date_last_purged, nbr_days_old, NBR_ROWS_TO_COMMIT , archive_flag, purge_status  from wms15prd.purge_config;
+
+              1 1            17-MAR-16                   100                100 
+N    3                                                                          
+                                                                                
+              2 2            03-MAR-17                   330               1001 
+Y    3                                                                          
+                                                                                
+              4 4            03-MAR-17                    10               1001 
+N    3                                                                          
+                                                                                
+              8 8            03-MAR-17                    10               1001 
+N    3                                                                          
+                                                                                
+             11 11           03-MAR-17                    30               1001 
+
+N    3                                                                          
+                                                                                
+             12 12           22-FEB-17                   365               1001 
+N    3                                                                          
+                                                                                
+             14 14           21-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+             16 16           03-MAR-17                    10               1001 
+N    3                                                                          
+                                                                                
+             17 17           03-MAR-17                    10               1001 
+N    3                                                                          
+
+                                                                                
+             18 18           17-MAR-16                   100                100 
+N    3                                                                          
+                                                                                
+             25 25           22-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+             26 26           21-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+             27 27           22-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+
+             30 30           17-MAR-16                   100                100 
+N    3                                                                          
+                                                                                
+             31 31           17-MAR-16                   100                100 
+N    3                                                                          
+                                                                                
+             32 32           21-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+             33 33           17-MAR-16                   100                100 
+N    3                                                                          
+                                                                                
+             34 34           17-MAR-16                   730                100 
+
+N    3                                                                          
+                                                                                
+             35 35           22-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+             36 36           17-MAR-16                   330               1001 
+Y    3                                                                          
+                                                                                
+             37 37           22-FEB-17                   365               1001 
+Y    3                                                                          
+                                                                                
+             38 38           03-MAR-17                    10               1001 
+N    3                                                                          
+
+                                                                                
+             41 41           03-MAR-17                    10               1001 
+N    3                                                                          
+                                                                                
+             42 42           03-MAR-17                    10               1001 
+N    3                                                                          
+                                                                                
+             43 43           03-MAR-17                    10               1001 
+N    3                                                                          
+                                                                                
+
+25 rows selected.
+
+SQL> spool off

@@ -1,0 +1,145 @@
+select count(*) from arc15prd.                                                  
+ARCH_CL_ENDPOINT_QUEUE                                                          
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_CL_MESSAGE                                                                 
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_CL_MESSAGE_KEYS                                                            
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                          
+ARCH_CONSTEMP_SCHED_EVENT                                                       
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_DO_LINE_CLSIFICATION_CODE                                                  
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_EVENT_MESSAGE                                                              
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_E_PLAN_TRANSACTION_ACT_ZO                                                  
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_FACILITY_SHP_CAL                                                           
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_ILM_APPTS_CHARGEBACK                                                       
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_EVENT                                                                  
+;                                                                               
+
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REPORT                                                                 
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REPORT_AUDIT                                                           
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REPORT_PARAM_VALUE                                                     
+;                                                                               
+                                                                                
+
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REPORT_PARM_VALUE_DTL                                                  
+;      zzzz                                                                         
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REPORT_PARM_VALUE_DTL                                                  
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REP_SCHD_PARAM                                                         
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_REP_SCHD_PARAM_DTL                                                     
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_LRF_SCHED_EVENT_REPORT                                                     
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_OM_SCHED_EVENT                                                             
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_ORDER_ACCESSORIAL_OPT_GRP                                                  
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_OUTPT_LPN_MINOR_SRL_NBR                                                    
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_OUTPT_ORDER_LINE_ITEM_SZ                                                   
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_PO_LINE_CLSIFICATION_CODE                                                  
+;                                                                               
+
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_PO_LINE_ITEM_ATTR_TMPLT                                                    
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_PURCHASE_ORDERS_CRDTCARD                                                   
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_PURCHASE_ORDERS_LN_ITM_SZ                                                  
+;                                                                               
+                                                                                
+
+select count(*) from arc15prd.                                                  
+ARCH_QUESTION_ANS_FILTER_HIST                                                   
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_RECV_MSG_DATA                                                              
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SHPMNT_ACCSSRL_TEMPLATE                                                    
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SHPMNT_ATTR_TEMPLATE                                                       
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SHPMNT_COMMDTY_TEMPLATE                                                    
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SLOT_TOTAL_CAP_USAGE_DTL                                                   
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SMARTLABEL_CRTN_HDR_HIST                                                   
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SO_ORDER_CHG_VALUE                                                         
+;                                                                               
+                                                                                
+select count(*) from arc15prd.                                                  
+ARCH_SO_ORDER_CHG_VALUE                                                         
+;                                                                             
+                                                                                
+
